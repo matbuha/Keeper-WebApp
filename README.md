@@ -1,4 +1,6 @@
 # Keeper
+![Example](src/assets/Screenshot.png)
+
 Keeper is a simple React-based web application built to help users manage and organize their notes effectively. With Keeper, you can easily create, view, and delete notes on the go.
 
 ## Features
